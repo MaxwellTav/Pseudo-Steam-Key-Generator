@@ -1,0 +1,12 @@
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\bin\Debug\SteamKeyDeveloper.exe.config
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\bin\Debug\SteamKeyDeveloper.exe
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\bin\Debug\SteamKeyDeveloper.pdb
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\obj\Debug\SteamKeyDeveloper.csprojAssemblyReference.cache
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\obj\Debug\SteamKeyDeveloper.Form1.resources
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\obj\Debug\SteamKeyDeveloper.Properties.Resources.resources
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\obj\Debug\SteamKeyDeveloper.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\obj\Debug\SteamKeyDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\obj\Debug\SteamKeyDeveloper.csproj.CopyComplete
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\obj\Debug\SteamKeyDeveloper.exe
+C:\Users\maxwe\source\repos\SteamKeyDeveloper\obj\Debug\SteamKeyDeveloper.pdb
